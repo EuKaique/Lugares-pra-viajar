@@ -1,5 +1,7 @@
 # Lugares pra viajar
 
+### Abaixo uma demostração em partes de como está o site
+
 ![readme 01](https://user-images.githubusercontent.com/34290569/102289142-b304c300-3f1c-11eb-8131-ed1933014ce4.PNG)
 
 
