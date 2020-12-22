@@ -1,4 +1,4 @@
-# Lugares pra viajar
+# Lugares pra viajar  :earth_americas:  :swimmer: :tropical_drink:
 
 ### Abaixo uma demostração em partes de como está o site
 
